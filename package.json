@@ -1,0 +1,21 @@
+{
+  "name": "gulp-ng-boba",
+  "version": "0.0.1",
+  "description": "gulp.js plugin for ngBoba",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "bugs": {
+    "url": "https://github.com/macro1/gulp-ng-boba/issues"
+  },
+  "license": "MIT",
+  "author": "Micah Denbraver",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/macro1/gulp-ng-boba.git"
+  },
+  "dependencies": {
+    "ng-boba": "git://github.com/ng-boba/ng-boba.git#master",
+    "through2": "^0.6.3"
+  }
+}
